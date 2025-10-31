@@ -169,4 +169,5 @@ dmypy.json
 
 # Custom
 .gradio/
-*data/
+data*
+best_*
