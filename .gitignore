@@ -172,3 +172,4 @@ dmypy.json
 data*
 best_*
 hf_cache*
+test/
